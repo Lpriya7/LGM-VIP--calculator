@@ -1,0 +1,27 @@
+.cal a{
+    text-align: center;
+}
+.cal{
+    text-align: center;
+    border: 2px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 700px;
+    margin-left: 600px;
+    background-color: lightblue;
+    border-radius: 8px;
+    box-shadow: 5px 5px rgb(191, 189, 189);
+}
+
+.button{
+    padding: 14px;
+    margin: 5px 2px;
+    font-size: medium ;
+}
+
+.input{
+    margin: 0;
+    padding: 10px 10px;
+    border: 2px solid black;
+    border-radius: 2px;
+}
